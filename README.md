@@ -40,13 +40,17 @@ GRID has two parts: a **Python pipeline** (`src/`) that crunches the data, and a
 **React web app** (`web/`) that visualises it.
 
 ```bash
-# 1. run the analytics pipeline (≈6 s on the full ~300k-row file)
+#1 clone the repo
+git clone https://github.com/Purav001/Parking-Induced-Congestion-Intelligence.git
+cd Parking-Induced-Congestion-Intelligence
+
+# 2. run the analytics pipeline (≈6 s on the full ~300k-row file)
 python3 -m venv .venv
 .venv/bin/pip install pandas numpy scikit-learn
 .venv/bin/python src/pipeline.py "jan to may police violation_anonymized791b166.csv"
 #   → writes output/*.json AND the web bundle web/public/data/grid.json
 
-# 2. run the web app
+# 3. run the web app
 cd web
 npm install
 npm run dev          # → http://localhost:5173
