@@ -1,0 +1,488 @@
+[
+  {
+    "police_station": "Upparpet",
+    "violations": 29630,
+    "cis": 42752.571,
+    "peak_share": 0.434,
+    "junction_share": 0.994,
+    "heavy_share": 0.048,
+    "hotspots": 14
+  },
+  {
+    "police_station": "Shivajinagar",
+    "violations": 22329,
+    "cis": 31242.509,
+    "peak_share": 0.572,
+    "junction_share": 0.805,
+    "heavy_share": 0.015,
+    "hotspots": 14
+  },
+  {
+    "police_station": "Malleshwaram",
+    "violations": 19085,
+    "cis": 24605.294,
+    "peak_share": 0.487,
+    "junction_share": 0.338,
+    "heavy_share": 0.015,
+    "hotspots": 20
+  },
+  {
+    "police_station": "City Market",
+    "violations": 14667,
+    "cis": 20004.483,
+    "peak_share": 0.363,
+    "junction_share": 0.941,
+    "heavy_share": 0.098,
+    "hotspots": 10
+  },
+  {
+    "police_station": "HAL Old Airport",
+    "violations": 17167,
+    "cis": 19657.528,
+    "peak_share": 0.339,
+    "junction_share": 0.0,
+    "heavy_share": 0.053,
+    "hotspots": 23
+  },
+  {
+    "police_station": "Vijayanagara",
+    "violations": 11630,
+    "cis": 14215.911,
+    "peak_share": 0.428,
+    "junction_share": 0.955,
+    "heavy_share": 0.013,
+    "hotspots": 17
+  },
+  {
+    "police_station": "Rajajinagar",
+    "violations": 9114,
+    "cis": 13033.785,
+    "peak_share": 0.367,
+    "junction_share": 0.796,
+    "heavy_share": 0.087,
+    "hotspots": 18
+  },
+  {
+    "police_station": "Kodigehalli",
+    "violations": 9252,
+    "cis": 8990.158,
+    "peak_share": 0.448,
+    "junction_share": 0.0,
+    "heavy_share": 0.03,
+    "hotspots": 12
+  },
+  {
+    "police_station": "Magadi Road",
+    "violations": 6842,
+    "cis": 8057.631,
+    "peak_share": 0.378,
+    "junction_share": 0.773,
+    "heavy_share": 0.046,
+    "hotspots": 12
+  },
+  {
+    "police_station": "Halasuru Gate",
+    "violations": 5200,
+    "cis": 7910.57,
+    "peak_share": 0.49,
+    "junction_share": 0.999,
+    "heavy_share": 0.098,
+    "hotspots": 10
+  },
+  {
+    "police_station": "Mahadevapura",
+    "violations": 5197,
+    "cis": 7341.47,
+    "peak_share": 0.347,
+    "junction_share": 0.0,
+    "heavy_share": 0.084,
+    "hotspots": 7
+  },
+  {
+    "police_station": "Jeevanbheemanagar",
+    "violations": 5851,
+    "cis": 6678.372,
+    "peak_share": 0.353,
+    "junction_share": 0.11,
+    "heavy_share": 0.021,
+    "hotspots": 13
+  },
+  {
+    "police_station": "Chikkajala",
+    "violations": 4824,
+    "cis": 6191.147,
+    "peak_share": 0.229,
+    "junction_share": 0.0,
+    "heavy_share": 0.019,
+    "hotspots": 4
+  },
+  {
+    "police_station": "K.R. Pura",
+    "violations": 5357,
+    "cis": 6172.611,
+    "peak_share": 0.266,
+    "junction_share": 0.0,
+    "heavy_share": 0.088,
+    "hotspots": 5
+  },
+  {
+    "police_station": "Chamarajpet",
+    "violations": 3117,
+    "cis": 5339.501,
+    "peak_share": 0.332,
+    "junction_share": 0.976,
+    "heavy_share": 0.147,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Byatarayanapura",
+    "violations": 3510,
+    "cis": 5252.275,
+    "peak_share": 0.324,
+    "junction_share": 0.523,
+    "heavy_share": 0.093,
+    "hotspots": 9
+  },
+  {
+    "police_station": "Jayanagara",
+    "violations": 3220,
+    "cis": 4658.995,
+    "peak_share": 0.433,
+    "junction_share": 0.975,
+    "heavy_share": 0.038,
+    "hotspots": 10
+  },
+  {
+    "police_station": "High ground",
+    "violations": 4134,
+    "cis": 4493.075,
+    "peak_share": 0.255,
+    "junction_share": 0.808,
+    "heavy_share": 0.016,
+    "hotspots": 5
+  },
+  {
+    "police_station": "Bellandur",
+    "violations": 4110,
+    "cis": 4362.681,
+    "peak_share": 0.276,
+    "junction_share": 0.0,
+    "heavy_share": 0.036,
+    "hotspots": 7
+  },
+  {
+    "police_station": "Electronic City",
+    "violations": 3590,
+    "cis": 4083.469,
+    "peak_share": 0.222,
+    "junction_share": 0.0,
+    "heavy_share": 0.114,
+    "hotspots": 5
+  },
+  {
+    "police_station": "HSR Layout",
+    "violations": 3942,
+    "cis": 4068.906,
+    "peak_share": 0.352,
+    "junction_share": 0.0,
+    "heavy_share": 0.082,
+    "hotspots": 7
+  },
+  {
+    "police_station": "Banaswadi",
+    "violations": 3186,
+    "cis": 3925.785,
+    "peak_share": 0.274,
+    "junction_share": 0.0,
+    "heavy_share": 0.075,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Halasur",
+    "violations": 3391,
+    "cis": 3760.777,
+    "peak_share": 0.329,
+    "junction_share": 0.094,
+    "heavy_share": 0.036,
+    "hotspots": 8
+  },
+  {
+    "police_station": "Basavanagudi",
+    "violations": 3145,
+    "cis": 3740.927,
+    "peak_share": 0.361,
+    "junction_share": 0.819,
+    "heavy_share": 0.021,
+    "hotspots": 7
+  },
+  {
+    "police_station": "Cubbon Park",
+    "violations": 2798,
+    "cis": 3705.581,
+    "peak_share": 0.401,
+    "junction_share": 0.853,
+    "heavy_share": 0.021,
+    "hotspots": 4
+  },
+  {
+    "police_station": "Wilson Garden",
+    "violations": 2806,
+    "cis": 3564.865,
+    "peak_share": 0.426,
+    "junction_share": 0.795,
+    "heavy_share": 0.032,
+    "hotspots": 10
+  },
+  {
+    "police_station": "Adugodi",
+    "violations": 2935,
+    "cis": 3344.614,
+    "peak_share": 0.362,
+    "junction_share": 0.487,
+    "heavy_share": 0.019,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Sheshadripuram",
+    "violations": 2641,
+    "cis": 3121.443,
+    "peak_share": 0.493,
+    "junction_share": 0.217,
+    "heavy_share": 0.036,
+    "hotspots": 5
+  },
+  {
+    "police_station": "Pulikeshinagar(F.Town)",
+    "violations": 3284,
+    "cis": 2921.316,
+    "peak_share": 0.273,
+    "junction_share": 0.0,
+    "heavy_share": 0.027,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Ashok Nagar",
+    "violations": 2932,
+    "cis": 2804.528,
+    "peak_share": 0.275,
+    "junction_share": 0.569,
+    "heavy_share": 0.027,
+    "hotspots": 5
+  },
+  {
+    "police_station": "Hulimavu",
+    "violations": 2066,
+    "cis": 2742.817,
+    "peak_share": 0.17,
+    "junction_share": 0.0,
+    "heavy_share": 0.228,
+    "hotspots": 5
+  },
+  {
+    "police_station": "Whitefield",
+    "violations": 1903,
+    "cis": 2671.95,
+    "peak_share": 0.415,
+    "junction_share": 0.0,
+    "heavy_share": 0.102,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Mico Layout",
+    "violations": 2229,
+    "cis": 2641.229,
+    "peak_share": 0.321,
+    "junction_share": 0.61,
+    "heavy_share": 0.039,
+    "hotspots": 7
+  },
+  {
+    "police_station": "Yeshwanthpura",
+    "violations": 2167,
+    "cis": 2618.976,
+    "peak_share": 0.324,
+    "junction_share": 0.0,
+    "heavy_share": 0.117,
+    "hotspots": 6
+  },
+  {
+    "police_station": "Hebbala",
+    "violations": 2837,
+    "cis": 2299.492,
+    "peak_share": 0.354,
+    "junction_share": 0.0,
+    "heavy_share": 0.019,
+    "hotspots": 2
+  },
+  {
+    "police_station": "V.V.Puram (C.Pet)",
+    "violations": 1390,
+    "cis": 1929.753,
+    "peak_share": 0.273,
+    "junction_share": 1.0,
+    "heavy_share": 0.099,
+    "hotspots": 2
+  },
+  {
+    "police_station": "Madiwala",
+    "violations": 1250,
+    "cis": 1867.157,
+    "peak_share": 0.36,
+    "junction_share": 0.471,
+    "heavy_share": 0.108,
+    "hotspots": 2
+  },
+  {
+    "police_station": "Yelahanka",
+    "violations": 1944,
+    "cis": 1830.349,
+    "peak_share": 0.237,
+    "junction_share": 0.0,
+    "heavy_share": 0.073,
+    "hotspots": 3
+  },
+  {
+    "police_station": "J.P. Nagar",
+    "violations": 1304,
+    "cis": 1632.195,
+    "peak_share": 0.308,
+    "junction_share": 0.676,
+    "heavy_share": 0.038,
+    "hotspots": 1
+  },
+  {
+    "police_station": "Sadashivanagar",
+    "violations": 1266,
+    "cis": 1557.949,
+    "peak_share": 0.433,
+    "junction_share": 0.043,
+    "heavy_share": 0.02,
+    "hotspots": 3
+  },
+  {
+    "police_station": "R.T. Nagar",
+    "violations": 1379,
+    "cis": 1473.196,
+    "peak_share": 0.359,
+    "junction_share": 0.011,
+    "heavy_share": 0.041,
+    "hotspots": 2
+  },
+  {
+    "police_station": "Kamakshipalya",
+    "violations": 1189,
+    "cis": 1368.708,
+    "peak_share": 0.468,
+    "junction_share": 0.183,
+    "heavy_share": 0.056,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Jnanabharathi",
+    "violations": 900,
+    "cis": 1181.085,
+    "peak_share": 0.351,
+    "junction_share": 0.0,
+    "heavy_share": 0.089,
+    "hotspots": 2
+  },
+  {
+    "police_station": "Banashankari",
+    "violations": 1022,
+    "cis": 1106.12,
+    "peak_share": 0.345,
+    "junction_share": 0.638,
+    "heavy_share": 0.062,
+    "hotspots": 2
+  },
+  {
+    "police_station": "Peenya",
+    "violations": 744,
+    "cis": 1063.425,
+    "peak_share": 0.38,
+    "junction_share": 0.0,
+    "heavy_share": 0.153,
+    "hotspots": 1
+  },
+  {
+    "police_station": "Jalahalli",
+    "violations": 949,
+    "cis": 996.985,
+    "peak_share": 0.407,
+    "junction_share": 0.0,
+    "heavy_share": 0.053,
+    "hotspots": 3
+  },
+  {
+    "police_station": "Devanahalli Airport",
+    "violations": 777,
+    "cis": 918.313,
+    "peak_share": 0.277,
+    "junction_share": 0.0,
+    "heavy_share": 0.028,
+    "hotspots": 2
+  },
+  {
+    "police_station": "K.S. Layout",
+    "violations": 708,
+    "cis": 889.646,
+    "peak_share": 0.273,
+    "junction_share": 0.196,
+    "heavy_share": 0.079,
+    "hotspots": 1
+  },
+  {
+    "police_station": "Thalagattapura",
+    "violations": 752,
+    "cis": 885.111,
+    "peak_share": 0.509,
+    "junction_share": 0.0,
+    "heavy_share": 0.051,
+    "hotspots": 1
+  },
+  {
+    "police_station": "K.G. Halli",
+    "violations": 678,
+    "cis": 875.12,
+    "peak_share": 0.212,
+    "junction_share": 0.0,
+    "heavy_share": 0.33,
+    "hotspots": 1
+  },
+  {
+    "police_station": "Chikkabanavara",
+    "violations": 612,
+    "cis": 801.293,
+    "peak_share": 0.294,
+    "junction_share": 0.0,
+    "heavy_share": 0.136,
+    "hotspots": 2
+  },
+  {
+    "police_station": "Hennuru",
+    "violations": 743,
+    "cis": 762.251,
+    "peak_share": 0.271,
+    "junction_share": 0.0,
+    "heavy_share": 0.062,
+    "hotspots": 0
+  },
+  {
+    "police_station": "No Police Station",
+    "violations": 281,
+    "cis": 565.565,
+    "peak_share": 0.299,
+    "junction_share": 0.046,
+    "heavy_share": 0.338,
+    "hotspots": 0
+  },
+  {
+    "police_station": "Kengeri",
+    "violations": 395,
+    "cis": 529.282,
+    "peak_share": 0.43,
+    "junction_share": 0.0,
+    "heavy_share": 0.089,
+    "hotspots": 0
+  }
+]
